@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Input Gas Pangkalan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f94a55dc-5f13-4fb9-8fab-c2805f754433</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1b87f752-3121-465d-8b47-7d1b1ee82355</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>45561ab8-b1ac-4bd9-bc09-83c5cd20e7f9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f90ec5fc-de14-46c3-9c41-12d45411c5ec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1b87f752-3121-465d-8b47-7d1b1ee82355</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>45561ab8-b1ac-4bd9-bc09-83c5cd20e7f9</id>
+      <masked>false</masked>
+      <name>Pin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f90ec5fc-de14-46c3-9c41-12d45411c5ec</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+</TestCaseEntity>

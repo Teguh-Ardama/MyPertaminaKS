@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rumah Tangga</name>
+   <tag></tag>
+   <elementGuidId>12d260cb-6ece-46b7-b277-0844712bab80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.styles_label__nguRF</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mantine-r8-body']/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a79e84c9-05bb-471c-9fee-6e4cd40c9f11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_label__nguRF</value>
+      <webElementGuid>b15d1ea9-dccf-4303-a48b-29200a3a267b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rumah Tangga</value>
+      <webElementGuid>2d0ec5e6-7b0b-42f9-a8b7-d4710c6e831f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mantine-r8-body&quot;)/label[@class=&quot;styles_container__vdRpf&quot;]/span[@class=&quot;styles_label__nguRF&quot;]</value>
+      <webElementGuid>be5d87aa-6a77-4640-9930-bc3a9b9af23b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mantine-r8-body']/label/span</value>
+      <webElementGuid>daec9a90-09bf-4e8b-b153-91922c2bff8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIK'])[1]/following::span[2]</value>
+      <webElementGuid>e60c6c9b-4962-44f6-9fb3-a1eb85df7e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOMxx'])[1]/following::span[3]</value>
+      <webElementGuid>b1ee66a2-848b-4623-b993-26bb103dd2f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usaha Mikro'])[1]/preceding::span[2]</value>
+      <webElementGuid>f76eaf41-9452-4f7e-8d68-f800b13817de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjut Transaksi'])[1]/preceding::span[4]</value>
+      <webElementGuid>47472eba-3a25-4859-9c08-5f6fa631dc6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rumah Tangga']/parent::*</value>
+      <webElementGuid>15c40689-db4d-4ccf-8e7f-594ff3e073f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>2d9f22bb-4ff7-4602-9dc3-e4d3611e542f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rumah Tangga' or . = 'Rumah Tangga')]</value>
+      <webElementGuid>88803793-6d5f-4497-932c-89c9b40649a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
