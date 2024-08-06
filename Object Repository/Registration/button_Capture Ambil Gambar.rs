@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Capture Ambil Gambar</name>
+   <tag></tag>
+   <elementGuidId>a9ec52f0-8382-4e2a-90d8-50e04339384a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.styles_buttonTake__DVKpi.styles_desktop___wYpF</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/div/div/div/div/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0f9865e9-d18b-4552-b2e0-ee8972ef79bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_buttonTake__DVKpi styles_desktop___wYpF</value>
+      <webElementGuid>480bf956-8c02-49d2-b1ed-053c6882d979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;mantine-AppShell-root mantine-1udmbix&quot;]/div[@class=&quot;mantine-hr6aor mantine-AppShell-body&quot;]/main[@class=&quot;mantine-18646eo mantine-AppShell-main&quot;]/div[@class=&quot;effect-1&quot;]/div[1]/div[@class=&quot;styles_innerContent__b1j3r false&quot;]/div[@class=&quot;mantine-Container-root mantine-d64fcd&quot;]/div[@class=&quot;styles_camStyle__aFj4A&quot;]/div[2]/button[@class=&quot;styles_buttonTake__DVKpi styles_desktop___wYpF&quot;]</value>
+      <webElementGuid>e4f58b96-b69c-4dd7-8a52-479ddc5b6d27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/div/div/div/div/div/div[2]/button</value>
+      <webElementGuid>7b32faf0-5783-4b5f-830f-67ecbe7257f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>1b19326a-a9d0-4ce9-9ecc-345153f4b975</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

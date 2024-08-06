@@ -21,7 +21,7 @@
          <id>e0c4351a-f3ac-4f7c-bede-e55def0c80fc</id>
          <iterationEntity>
             <iterationType>RANGE</iterationType>
-            <value>1-10</value>
+            <value>1-100</value>
          </iterationEntity>
          <testDataId>Data Files/DF - Indra Yanto</testDataId>
       </testDataLink>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ke Beranda</name>
+   <tag></tag>
+   <elementGuidId>61f46460-6888-4b8a-af4b-38ca0cbd03d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/div/div/div/div/div[2]/div[3]/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8b6fb4d1-4fb9-4842-99a5-c56ffdbc81c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/merchant/app/verification-nik</value>
+      <webElementGuid>893e6468-b9e7-4e60-95c1-edb50c3b6f7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ke Beranda</value>
+      <webElementGuid>48e31d47-ac94-4602-a2fb-95570f7e4673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;mantine-AppShell-root mantine-1udmbix&quot;]/div[@class=&quot;mantine-hr6aor mantine-AppShell-body&quot;]/main[@class=&quot;mantine-18646eo mantine-AppShell-main&quot;]/div[@class=&quot;effect-1&quot;]/div[1]/div[@class=&quot;styles_innerContent__b1j3r false&quot;]/div[@class=&quot;mantine-Container-root mantine-d64fcd&quot;]/div[@class=&quot;mantine-Container-root mantine-d64fcd&quot;]/div[@class=&quot;styles_actionContainer__ce8eM&quot;]/span[@class=&quot;styles_btnHome__k1_P5&quot;]/a[1]</value>
+      <webElementGuid>0185b69a-78f7-488f-8b68-1251aa40583e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/div/div/div/div/div[2]/div[3]/span/a</value>
+      <webElementGuid>56e32823-8d48-4bbd-bf17-04986eab2c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ke Beranda')]</value>
+      <webElementGuid>b259de9b-a089-4955-8d62-0a00e19f2f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batalkan Transaksi'])[1]/following::a[1]</value>
+      <webElementGuid>417452ff-9b48-4204-b4f0-3182602d2785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim Struk ke Pelanggan'])[1]/following::a[1]</value>
+      <webElementGuid>e028191f-eda8-4105-9758-119d0c1aafbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[1]</value>
+      <webElementGuid>88fb8163-ad49-4fe0-95fe-acd047102eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::a[1]</value>
+      <webElementGuid>61aa404d-22cf-46fc-a3b5-f9464d8befab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ke Beranda']/parent::*</value>
+      <webElementGuid>5674e4dd-9892-43cb-baba-d32c52f2ed95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/merchant/app/verification-nik')]</value>
+      <webElementGuid>a2d39ebc-71dd-4fbe-91d8-b7c407f2eb18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>6d31be5b-6a40-4c89-90a9-67304daafa36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/merchant/app/verification-nik' and (text() = 'Ke Beranda' or . = 'Ke Beranda')]</value>
+      <webElementGuid>98c9fc49-1cbd-49fa-8350-57805dcbb49e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,56 +17,58 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+// Open Browser and Navigate to URL
 WebUI.openBrowser('')
-
 WebUI.navigateToUrl('https://subsiditepatlpg.mypertamina.id/merchant/auth/login')
 
-WebUI.setText(findTestObject('Object Repository/Login Page/input_EmailNo. Handphone_mantine-r0'), Email)
-
-WebUI.setText(findTestObject('Object Repository/Login Page/input_PIN (6-digit)_mantine-r1'), Pin)
-
+// Log in
+WebUI.setText(findTestObject('Object Repository/Login Page/input_Email'), Email)
+WebUI.setText(findTestObject('Object Repository/Login Page/input_PIN'), Pin)
 WebUI.submit(findTestObject('Object Repository/Login Page/button_Masuk'))
 
+// NIK Check
 WebUI.setText(findTestObject('Object Repository/Main Page/NIK Pelanggan'), NIK)
-
 WebUI.submit(findTestObject('Object Repository/Main Page/button_Cek'))
 
-if (WebUI.verifyElementPresent(findTestObject('Main Page/2 Jenis Penggunaan/h3_Pelanggan memiliki 2 jenis pengguna'), 2, 
-    FailureHandling.OPTIONAL)) {
-    WebUI.click(findTestObject('Main Page/2 Jenis Penggunaan/span_Usaha Mikro'))
-
-    WebUI.click(findTestObject('Main Page/2 Jenis Penggunaan/button_Lanjut Transaksi'))
-}
-
-if (WebUI.verifyElementPresent(findTestObject('Sale/Warning Melebihi Batas Wajar'), 2, FailureHandling.OPTIONAL)) {
-    WebUI.click(findTestObject('Sale/Icon Back'))
-
-    WebUI.click(findTestObject('Main Page/span_Keluar Akun'))
-
-    WebUI.click(findTestObject('Main Page/button_Keluar'))
+// NIK Check
+if (WebUI.verifyElementPresent(findTestObject('Object Repository/Main Page/NIK Belum Terdaftar/h4_NIK belum terdaftar'), 2, FailureHandling.OPTIONAL)) {
+    WebUI.click(findTestObject('Object Repository/Main Page/NIK Belum Terdaftar/button_kembali'))
 } else {
-    for (int r = 1; r <= 9; r++) {
-        WebUI.click(findTestObject('Sale/Icon Plus'))
+    // If NIK is registered, proceed with the following actions
+
+    // Handle "2 Jenis Penggunaan" scenario
+    if (WebUI.verifyElementPresent(findTestObject('Object Repository/Main Page/2 Jenis Penggunaan/h3_Pelanggan memiliki 2 jenis pengguna'), 2, FailureHandling.OPTIONAL)) {
+        WebUI.click(findTestObject('Object Repository/Main Page/2 Jenis Penggunaan/span_Usaha Mikro'))
+        WebUI.click(findTestObject('Object Repository/Main Page/2 Jenis Penggunaan/button_Lanjut Transaksi'))
     }
-    
-    WebUI.click(findTestObject('Sale/button_Cek Pesanan'))
 
-    WebUI.click(findTestObject('Sale/button_Proses Transaksi'))
-
-    if (WebUI.verifyElementPresent(findTestObject('Sale/Melebihi Batas Kewajaran/h3_Melebihi Batas Kewajaran'), 2, FailureHandling.OPTIONAL)) {
-        WebUI.click(findTestObject('Sale/Melebihi Batas Kewajaran/button_Oke'))
-
-        WebUI.click(findTestObject('Sale/Icon Back'))
-
-        WebUI.click(findTestObject('Main Page/span_Keluar Akun'))
-
-        WebUI.click(findTestObject('Main Page/button_Keluar'))
+    // Handle "Melebihi Batas Kewajaran" scenario
+    if (WebUI.verifyElementPresent(findTestObject('Object Repository/Sale/span_Tidak dapat transaksi karena telah melebihi batas kewajaran pembelian LPG 3 kg bulan ini'), 2, FailureHandling.OPTIONAL)) {
+        WebUI.click(findTestObject('Object Repository/Sale/Icon Back'))
+        WebUI.callTestCase(findTestCase('MyPertamina/TC - Keluar'), [:], FailureHandling.STOP_ON_FAILURE)
     } else {
-        WebUI.click(findTestObject('Sale/Struk/Home'))
+        // Add products
+        for (int r = 1; r <= 4; r++) {
+            WebUI.click(findTestObject('Object Repository/Sale/Icon Plus'))
+        }
 
-        WebUI.click(findTestObject('Main Page/span_Keluar Akun'))
+        WebUI.click(findTestObject('Object Repository/Sale/button_Cek Pesanan'))
 
-        WebUI.click(findTestObject('Main Page/button_Keluar'))
+        // Handle exceeding limits scenario
+        if (WebUI.verifyElementPresent(findTestObject('Object Repository/Sale/Melebihi Batas Kewajaran/h3_Melebihi Batas Kewajaran (Nomor KK yang sama)'), 2, FailureHandling.OPTIONAL)) {
+            WebUI.click(findTestObject('Object Repository/Sale/Melebihi Batas Kewajaran/button_Oke'))
+            WebUI.click(findTestObject('Object Repository/Sale/Icon Back'))
+            WebUI.callTestCase(findTestCase('MyPertamina/TC - Keluar'), [:], FailureHandling.STOP_ON_FAILURE)
+        } else {
+            // Proceed with transaction
+            WebUI.click(findTestObject('Object Repository/Sale/button_Proses Transaksi'))
+            WebUI.click(findTestObject('Object Repository/Sale/Struk/a_Ke Beranda'))
+            WebUI.callTestCase(findTestCase('MyPertamina/TC - Keluar'), [:], FailureHandling.STOP_ON_FAILURE)
+        }
     }
 }
+
+// Close Browser
+WebUI.closeBrowser()
+
 

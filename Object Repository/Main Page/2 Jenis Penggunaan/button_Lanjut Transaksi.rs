@@ -3,18 +3,22 @@
    <description></description>
    <name>button_Lanjut Transaksi</name>
    <tag></tag>
-   <elementGuidId>5e6c31f3-8b7c-489d-b26e-dd59df0c28c1</elementGuidId>
+   <elementGuidId>1da71b9f-c403-493b-a56f-11995aa3f290</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'btnContinueTrx' and @type = 'button' and (text() = 'Lanjut Transaksi' or . = 'Lanjut Transaksi')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>button.styles_root__6_rRr.styles_medium__7QTIz.styles_contained__1kIDF.styles_primary__pVpF_.styles_btnModalStatusTrx__Hd0KY</value>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[2]</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>294fd690-1568-4db3-9af4-c711f0c94079</webElementGuid>
+      <webElementGuid>f9ec1b8a-f2ba-4311-9d10-9fe0e87d9ae8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,15 @@
       <name>class</name>
       <type>Main</type>
       <value>styles_root__6_rRr styles_medium__7QTIz styles_contained__1kIDF styles_primary__pVpF_ styles_btnModalStatusTrx__Hd0KY</value>
-      <webElementGuid>047ea50f-e654-4ca0-9f90-b5ddc2107409</webElementGuid>
+      <webElementGuid>7482a71c-c71e-4542-9e80-075c9acdd188</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-testid</name>
       <type>Main</type>
       <value>btnContinueTrx</value>
-      <webElementGuid>3dd0a867-4bfb-4c5d-af79-33f8464c2fff</webElementGuid>
+      <webElementGuid>edafefa9-47a9-4617-b24d-ad094dae727e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b76929c8-f9ab-4916-806c-863d29352a05</webElementGuid>
+      <webElementGuid>a5cc4e37-3362-415f-9db6-62da432f1019</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,31 +58,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Lanjut Transaksi</value>
-      <webElementGuid>7fda983b-af66-493f-911a-8e97bb545297</webElementGuid>
+      <webElementGuid>b3080cfc-cda5-4359-90b3-fa3491584743</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mantine-r8-body&quot;)/div[@class=&quot;styles_btnModalStatusTrx__Hd0KY&quot;]/button[@class=&quot;styles_root__6_rRr styles_medium__7QTIz styles_contained__1kIDF styles_primary__pVpF_ styles_btnModalStatusTrx__Hd0KY&quot;]</value>
-      <webElementGuid>c67b6765-25bc-439e-8e0c-34cde5487664</webElementGuid>
+      <value>id(&quot;mantine-ra-body&quot;)/div[@class=&quot;styles_btnModalStatusTrx__Hd0KY&quot;]/button[@class=&quot;styles_root__6_rRr styles_medium__7QTIz styles_contained__1kIDF styles_primary__pVpF_ styles_btnModalStatusTrx__Hd0KY&quot;]</value>
+      <webElementGuid>3ebbe250-cf5b-4e39-9c2b-1efe63f9b12f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>b1be1ef5-4edc-4a98-923a-48d69da3c03d</webElementGuid>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>81a1f66b-a397-4da9-8df0-2c94e892b3c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mantine-r8-body']/div[3]/button</value>
-      <webElementGuid>cb72a1cd-e589-47ce-b4b8-61e5932e968d</webElementGuid>
+      <value>//div[@id='mantine-ra-body']/div[3]/button</value>
+      <webElementGuid>5cd94c61-e598-4359-b50d-a473a5113ebc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Usaha Mikro'])[1]/following::button[1]</value>
-      <webElementGuid>ae9dae33-b0f1-47d8-a9e4-6af3672fa266</webElementGuid>
+      <webElementGuid>6b5c6c94-51e1-41f5-9052-20455fdd232b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rumah Tangga'])[1]/following::button[1]</value>
-      <webElementGuid>ef79c388-cff6-42d4-97a2-107319b30a0b</webElementGuid>
+      <webElementGuid>6dc63d70-07c1-4676-a915-bbb2715e4d3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,15 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::button[1]</value>
-      <webElementGuid>11c16e74-a38e-419a-abf4-9bcb5d44c79d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[2]</value>
-      <webElementGuid>2a8e3c25-0cd2-4160-a8bd-ef43495a0140</webElementGuid>
+      <webElementGuid>a62403b7-54dc-4ce0-8c77-62200aa07714</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Lanjut Transaksi']/parent::*</value>
-      <webElementGuid>9ca35faa-7bfe-4662-9bd1-98bcb8a12caf</webElementGuid>
+      <webElementGuid>637c7891-4d81-460c-a943-2505c29025cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>969f5fa8-7f95-4140-b4e7-14bd7a04253d</webElementGuid>
+      <webElementGuid>4341b66f-de91-4606-bbe9-155f26619fb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +130,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Lanjut Transaksi' or . = 'Lanjut Transaksi')]</value>
-      <webElementGuid>d07d03d7-625b-47ef-ac46-9455e5a81a18</webElementGuid>
+      <webElementGuid>c7054719-0c80-43a2-9472-4f514e50eec3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

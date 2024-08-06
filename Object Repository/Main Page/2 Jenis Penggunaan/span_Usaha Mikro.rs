@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Usaha Mikro</name>
    <tag></tag>
-   <elementGuidId>3a001ff6-7654-484e-9dc5-8da26720c0b3</elementGuidId>
+   <elementGuidId>edc16222-b404-4bf4-9593-a7af36a7c131</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mantine-r8-body']/label[2]/span</value>
+         <value>//div[@id='mantine-ra-body']/label[2]/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4916d425-a879-4e59-9226-d98350f9a4b7</webElementGuid>
+      <webElementGuid>4b14231c-5b81-4f65-8ede-8fb6530670a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styles_label__nguRF</value>
-      <webElementGuid>0a019eb9-7cd2-4393-9b92-f5c2fa8c23f6</webElementGuid>
+      <webElementGuid>c9ce4353-5b88-412e-b515-60527099fae6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,23 +38,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Usaha Mikro</value>
-      <webElementGuid>c30b4aae-25f5-4c74-83c3-fdb102ac9b3c</webElementGuid>
+      <webElementGuid>aa5fb084-0363-4b72-8f9b-76bf3f539ca1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mantine-r8-body&quot;)/label[@class=&quot;styles_container__vdRpf&quot;]/span[@class=&quot;styles_label__nguRF&quot;]</value>
-      <webElementGuid>319d8a51-dcf3-448c-8534-3c276509fe2d</webElementGuid>
+      <value>id(&quot;mantine-ra-body&quot;)/label[@class=&quot;styles_container__vdRpf&quot;]/span[@class=&quot;styles_label__nguRF&quot;]</value>
+      <webElementGuid>31ff15b8-b65a-4f48-be47-508c106ae8f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mantine-r8-body']/label[2]/span</value>
-      <webElementGuid>66bba5f4-b1c9-4ab0-b8f7-8bb16ab9257d</webElementGuid>
+      <value>//div[@id='mantine-ra-body']/label[2]/span</value>
+      <webElementGuid>432e4310-79dd-4719-afd1-a205033ee7fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rumah Tangga'])[1]/following::span[2]</value>
-      <webElementGuid>27007d61-49eb-491f-a443-2ecf5225c28c</webElementGuid>
+      <webElementGuid>c786cc37-61d9-4117-bb9f-ce8968d8b57d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NIK'])[1]/following::span[4]</value>
-      <webElementGuid>6a3e677a-ede4-469b-954f-01c2770bb658</webElementGuid>
+      <webElementGuid>1df41d75-2cb2-4523-afc8-35209f05a8f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjut Transaksi'])[1]/preceding::span[2]</value>
-      <webElementGuid>55e3f309-8974-4415-816e-d7a283fd972c</webElementGuid>
+      <webElementGuid>edca257e-0f6e-43ea-a4f1-b8646aab5e91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::span[2]</value>
-      <webElementGuid>18c64ac1-2519-4d80-8ea8-5cf49344bc7d</webElementGuid>
+      <webElementGuid>5e168da9-2709-44e4-8a08-1cf770c12536</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Usaha Mikro']/parent::*</value>
-      <webElementGuid>5373db64-9a13-49b8-b94f-b950d464b63d</webElementGuid>
+      <webElementGuid>143c5a0f-7a6f-4933-a591-b81158a48803</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label[2]/span</value>
-      <webElementGuid>fe426f71-f193-4295-a3f8-9c9df35b53e8</webElementGuid>
+      <webElementGuid>403610af-bede-4025-9690-3cfa52d82a65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Usaha Mikro' or . = 'Usaha Mikro')]</value>
-      <webElementGuid>af22295b-98b8-4ce2-a559-6c5d59af7fc2</webElementGuid>
+      <webElementGuid>020de3c4-687f-410f-b2f0-15d73d67b8e9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

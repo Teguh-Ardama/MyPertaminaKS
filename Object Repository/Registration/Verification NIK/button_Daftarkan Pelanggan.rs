@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Daftarkan Pelanggan</name>
+   <tag></tag>
+   <elementGuidId>7b694e48-e04a-47c9-b337-df47fc50cedc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.styles_root__6_rRr.styles_medium__7QTIz.styles_contained__1kIDF.styles_primary__pVpF_.styles_btnModalStatusTrx__WYteb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4d026cdf-df76-4683-afac-277a55b81c5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_root__6_rRr styles_medium__7QTIz styles_contained__1kIDF styles_primary__pVpF_ styles_btnModalStatusTrx__WYteb</value>
+      <webElementGuid>4fe4ace8-ea92-4280-9c50-c04bf918be48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>btnRegist</value>
+      <webElementGuid>fcea470d-0726-41c4-bced-e28275523d59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b042a00d-b31b-4c30-9b05-e8d88caeb276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftarkan Pelanggan</value>
+      <webElementGuid>34224a05-5257-4e49-9dcc-53943cc9afad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mantine-rj-body&quot;)/div[@class=&quot;styles_btnModalStatusTrx__WYteb&quot;]/button[@class=&quot;styles_root__6_rRr styles_medium__7QTIz styles_contained__1kIDF styles_primary__pVpF_ styles_btnModalStatusTrx__WYteb&quot;]</value>
+      <webElementGuid>75bb7162-901b-4460-bac3-31ac9db67605</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>8800e323-e54b-4be5-af43-f208b693f52e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mantine-rj-body']/div[3]/button</value>
+      <webElementGuid>ee3fe662-94d4-40a5-a26b-63aa5fd99ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIK Belum Terdaftar'])[1]/following::button[1]</value>
+      <webElementGuid>cae59a55-9c27-4b2f-a2fc-9c3b7a9a87f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek'])[1]/following::button[1]</value>
+      <webElementGuid>baff5c5f-908f-449e-8f39-08419b8d2804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::button[1]</value>
+      <webElementGuid>174aee2e-0a8e-4e69-afad-0639181cf85d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>b155ba1c-31b0-4b99-abc0-6f62a5cfe4fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Daftarkan Pelanggan' or . = 'Daftarkan Pelanggan')]</value>
+      <webElementGuid>07be9d3d-53d8-4e75-81e4-daff6dcf648c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

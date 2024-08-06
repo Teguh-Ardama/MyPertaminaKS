@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Saya telah membaca  menyetujui</name>
+   <tag></tag>
+   <elementGuidId>a5c0c395-8379-4164-81ac-8b21420b8717</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.styles_root__6_rRr.styles_medium__7QTIz.styles_contained__1kIDF.styles_primary__pVpF_.styles_btnNext__mgksc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b8a84ce2-cd22-44eb-9b7b-c4b770e16083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_root__6_rRr styles_medium__7QTIz styles_contained__1kIDF styles_primary__pVpF_ styles_btnNext__mgksc</value>
+      <webElementGuid>abaaece7-2448-471c-8856-6d2c482366aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>btnTermCondition</value>
+      <webElementGuid>dedfaa83-a180-415f-a688-f1b808695d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>066f1d23-032f-48c6-9daf-c5a06b29e5f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saya telah membaca &amp; menyetujui</value>
+      <webElementGuid>87680f3e-1ee4-44af-b97e-43a5b489c146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;mantine-AppShell-root mantine-1udmbix&quot;]/div[@class=&quot;mantine-hr6aor mantine-AppShell-body&quot;]/main[@class=&quot;mantine-18646eo mantine-AppShell-main&quot;]/div[@class=&quot;effect-1&quot;]/div[1]/div[@class=&quot;styles_innerContent__b1j3r false&quot;]/div[@class=&quot;mantine-Container-root mantine-d64fcd&quot;]/div[@class=&quot;mantine-Container-root mantine-xnoe1f&quot;]/div[@class=&quot;styles_btnNext__mgksc&quot;]/button[@class=&quot;styles_root__6_rRr styles_medium__7QTIz styles_contained__1kIDF styles_primary__pVpF_ styles_btnNext__mgksc&quot;]</value>
+      <webElementGuid>cb5d4722-6a30-47ff-b2cd-6b6c49e3bac0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>888b4ff3-1186-471e-8a47-21a3c9f2da76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>224931d2-3938-4637-9dbb-2788728defff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda telah'])[1]/following::button[1]</value>
+      <webElementGuid>26cc1685-64ee-47ae-9159-f0e68300a7a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Pribadi yang dicantumkan dan diberikan Anda merupakan data yang benar dan sah;'])[1]/following::button[1]</value>
+      <webElementGuid>39883c0c-1e99-48d2-a40a-aa706aa49123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>35d60240-5952-4ccd-949d-d331d19afd97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::button[1]</value>
+      <webElementGuid>e5470a0c-793d-4859-9d3e-a56210811a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Saya telah membaca &amp; menyetujui']/parent::*</value>
+      <webElementGuid>0a9695ed-368c-4ab2-85a7-48240dab6426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>f2944ce8-cfd0-4a2b-a733-755d9bf7ec10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Saya telah membaca &amp; menyetujui' or . = 'Saya telah membaca &amp; menyetujui')]</value>
+      <webElementGuid>095340ad-cf63-49c4-a446-d4737653ec6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

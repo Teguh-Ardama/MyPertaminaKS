@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Melebihi Batas Kewajaran (Nomor KK yang sama)</name>
+   <tag></tag>
+   <elementGuidId>a5891710-ac80-48e1-b028-b79def6a385c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mantine-rl-body']/div/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>78ed1683-3a97-4cb2-bc22-68c0ef5a8c48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Melebihi Batas Kewajaran</value>
+      <webElementGuid>668cfedf-012d-42f6-8451-21c765f60919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mantine-rl-body&quot;)/div[@class=&quot;styles_modalBody__2fd5R&quot;]/div[1]/h3[1]</value>
+      <webElementGuid>b2978f96-1180-4528-88fc-85ad5f8f9f02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mantine-rl-body']/div/div/h3</value>
+      <webElementGuid>0cc3c3d8-abed-4b37-8155-ea12e7f1b7e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::h3[1]</value>
+      <webElementGuid>afbe3263-af3e-4ce9-bd79-4d84ed622dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::h3[1]</value>
+      <webElementGuid>7c017c6a-5ae0-4ba8-8375-6b7960e40aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oke'])[1]/preceding::h3[1]</value>
+      <webElementGuid>271561d9-d172-4039-bd96-903d81cdb325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Melebihi Batas']/parent::*</value>
+      <webElementGuid>7f2181aa-ffb1-4ba5-86aa-b730f41cf307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>22fade91-8941-42d5-a7d3-f036cd821f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Melebihi Batas Kewajaran' or . = 'Melebihi Batas Kewajaran')]</value>
+      <webElementGuid>8257576b-4c02-4f72-a590-b4104295cc01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

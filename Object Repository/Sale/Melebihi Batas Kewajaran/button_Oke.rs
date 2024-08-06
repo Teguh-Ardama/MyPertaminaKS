@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Oke</name>
    <tag></tag>
-   <elementGuidId>731bf04d-29c8-4747-83ce-f252d84381d1</elementGuidId>
+   <elementGuidId>838e0047-d70e-4f24-8217-44a6366b80b4</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7b024b6e-2e24-4913-a2a9-473a384ddff1</webElementGuid>
+      <webElementGuid>a9f5750c-93a9-4add-8e1a-5d7d08f194fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styles_root__6_rRr styles_medium__7QTIz styles_contained__1kIDF styles_primary__pVpF_ </value>
-      <webElementGuid>f360fecb-cefc-45d7-b8e2-d11c1c0c3303</webElementGuid>
+      <webElementGuid>a50abe1f-92ed-43da-9b3f-d0e4fa1d94f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2f8da000-620c-467c-a9d6-878a257ab4e7</webElementGuid>
+      <webElementGuid>bef8bb7f-7f7e-44b3-a4ea-709e36c333dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +46,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Oke</value>
-      <webElementGuid>29e590fe-b1c9-4460-947b-bb098b7d8533</webElementGuid>
+      <webElementGuid>f1bc7adb-7366-47f7-872e-875f72f48fca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mantine-rk-body&quot;)/div[@class=&quot;styles_modalBody__9XWPC&quot;]/div[2]/button[@class=&quot;styles_root__6_rRr styles_medium__7QTIz styles_contained__1kIDF styles_primary__pVpF_&quot;]</value>
-      <webElementGuid>b40c7de8-dcb2-4cb2-bb0b-4143745c27fc</webElementGuid>
+      <value>id(&quot;mantine-rl-body&quot;)/div[@class=&quot;styles_modalBody__2fd5R&quot;]/div[2]/button[@class=&quot;styles_root__6_rRr styles_medium__7QTIz styles_contained__1kIDF styles_primary__pVpF_&quot;]</value>
+      <webElementGuid>9cc1c939-5942-4a5f-a71e-32c25da40d6c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,31 +62,23 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>5a9e2bac-9c27-45f9-9bac-0f22c84e0a94</webElementGuid>
+      <webElementGuid>525f6087-5de1-4acc-ac22-b9ccadb7a1e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mantine-rk-body']/div/div[2]/button</value>
-      <webElementGuid>e56fc130-966d-46ef-a544-220e211064b8</webElementGuid>
+      <value>//div[@id='mantine-rl-body']/div/div[2]/button</value>
+      <webElementGuid>d1559ca9-3a9f-46b3-86a4-152a5a2128d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak dapat transaksi karena telah melebihi batas kewajaran pembelian LPG 3 kg bulan ini.'])[1]/following::button[1]</value>
-      <webElementGuid>e3dfc8b4-8c6b-45fc-97a2-92f457882063</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Melebihi Batas Kewajaran'])[1]/following::button[1]</value>
-      <webElementGuid>cd0ed9bf-de32-49a2-9086-32511c3915f9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::button[1]</value>
+      <webElementGuid>3cf9ae7c-f237-407c-9476-9ed18a9f0e03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Oke']/parent::*</value>
-      <webElementGuid>49a12150-b6ff-4de9-a392-a6c92195b716</webElementGuid>
+      <webElementGuid>9e64076a-bff5-4d23-8297-ad78a555a636</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div/div/div[2]/button</value>
-      <webElementGuid>cf17d86b-3c88-46d7-b7a0-e2f6b90caff0</webElementGuid>
+      <webElementGuid>3e0c0530-4796-4ab5-9e4c-079e53defcf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Oke' or . = 'Oke')]</value>
-      <webElementGuid>863bc04c-3227-49c1-8cb4-68378390cf29</webElementGuid>
+      <webElementGuid>58ac5fa1-2e43-4df9-a80a-78a442632a15</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

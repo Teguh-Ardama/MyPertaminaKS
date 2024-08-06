@@ -24,21 +24,21 @@
       <variableId>f90ec5fc-de14-46c3-9c41-12d45411c5ec</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'indra.yanto970@gmail.com'</defaultValue>
       <description></description>
       <id>1b87f752-3121-465d-8b47-7d1b1ee82355</id>
       <masked>false</masked>
       <name>Email</name>
    </variable>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'999999'</defaultValue>
       <description></description>
       <id>45561ab8-b1ac-4bd9-bc09-83c5cd20e7f9</id>
       <masked>false</masked>
       <name>Pin</name>
    </variable>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'3216064604660016'</defaultValue>
       <description></description>
       <id>f90ec5fc-de14-46c3-9c41-12d45411c5ec</id>
       <masked>false</masked>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Daftarkan Pelanggan Baru</name>
+   <tag></tag>
+   <elementGuidId>5ef41a5b-eb37-47e0-9c17-92c6265f0196</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.styles_root__6_rRr.styles_medium__7QTIz.styles_outlined__khSXF.styles_primary__pVpF_.styles_customButton__fslta</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bf24b227-f9af-44a9-9151-4cb81928ace8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_root__6_rRr styles_medium__7QTIz styles_outlined__khSXF styles_primary__pVpF_ styles_customButton__fslta</value>
+      <webElementGuid>b6cc3bf0-f075-4101-a041-c725778e3df9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>daftarPelanggan-btn-id</value>
+      <webElementGuid>4d249b06-09eb-40db-af54-9ed238caeadc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a668495c-3b36-4bae-a895-4a2c85860fb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftarkan Pelanggan Baru</value>
+      <webElementGuid>b48fd577-3739-422a-983b-5e549dea614b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;mantine-AppShell-root mantine-1udmbix&quot;]/div[@class=&quot;mantine-hr6aor mantine-AppShell-body&quot;]/main[@class=&quot;mantine-18646eo mantine-AppShell-main&quot;]/div[@class=&quot;effect-1&quot;]/div[1]/div[@class=&quot;styles_innerContent__b1j3r styles_activeNavbar__pjnS8&quot;]/div[@class=&quot;mantine-Container-root styles_cardTop__99fsT mantine-d64fcd&quot;]/div[@class=&quot;mantine-Container-root styles_verifContainer__GY6kB mantine-d9zk78&quot;]/div[@class=&quot;styles_verifContainerDiv__bXQ4_&quot;]/div[@class=&quot;styles_middleContainer__B6cQt&quot;]/div[@class=&quot;styles_actionWrapper__MuMok&quot;]/div[@class=&quot;styles_customButton__fslta&quot;]/button[@class=&quot;styles_root__6_rRr styles_medium__7QTIz styles_outlined__khSXF styles_primary__pVpF_ styles_customButton__fslta&quot;]</value>
+      <webElementGuid>196f2b24-1cf9-434d-9ee7-dbf469a9aea4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>9a4040cf-69c8-41db-b916-6f26ad0ef768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/div/div/div/div/div[2]/div/div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>e44b3814-331b-45a6-b871-f641180a1d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelanggan Belum Terdaftar?'])[1]/following::button[1]</value>
+      <webElementGuid>8005c26d-4123-466d-a9ba-87933f286b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek'])[1]/following::button[1]</value>
+      <webElementGuid>0d055f89-9dd6-4266-999c-835ff107418c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar Akun'])[1]/preceding::button[1]</value>
+      <webElementGuid>bbe73fbf-6f06-44dc-ad25-3ef95ce6f5c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek NIK'])[1]/preceding::button[1]</value>
+      <webElementGuid>6aa02401-d420-45c1-9ef5-44335d01e5e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftarkan Pelanggan Baru']/parent::*</value>
+      <webElementGuid>e070ed07-f196-4127-ab1b-ceea5a6337f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>7dfabbfd-449d-47af-92db-672358be5eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Daftarkan Pelanggan Baru' or . = 'Daftarkan Pelanggan Baru')]</value>
+      <webElementGuid>d2bb51c2-464b-4e61-817a-d599e2a09952</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

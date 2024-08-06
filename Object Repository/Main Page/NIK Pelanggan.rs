@@ -3,15 +3,15 @@
    <description></description>
    <name>NIK Pelanggan</name>
    <tag></tag>
-   <elementGuidId>c471520e-910a-4ac4-be16-737fe407d843</elementGuidId>
+   <elementGuidId>55177c79-c5e0-4cbe-94ec-90c2d223c8d2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#mantine-rd</value>
+         <value>#mantine-r5</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='mantine-rd']</value>
+         <value>//input[@id='mantine-r5']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4d06a885-8c00-41ee-9146-b10345eef9fb</webElementGuid>
+      <webElementGuid>7dd3652a-dfdc-49bd-8ec7-3be370570c02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mantine-Input-input mantine-Autocomplete-input mantine-1vdo6zy</value>
-      <webElementGuid>43819f6b-a767-4a1b-8af0-471bd777e7b9</webElementGuid>
+      <value>mantine-Input-input mantine-Autocomplete-input mantine-1w8ojc8</value>
+      <webElementGuid>e98566d6-e9ba-4dc4-a4f9-2a9497ffcc79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>5f2d5f3f-5c67-476e-a965-2da9bda04175</webElementGuid>
+      <webElementGuid>2310786a-ba48-48ab-b32a-50a88dc0d6cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>f2c7f63d-12ce-4037-b503-3832161ccdd5</webElementGuid>
+      <webElementGuid>05fb6459-1f49-45ab-b3c5-74e0592df84a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>mantine-rd</value>
-      <webElementGuid>84d20d6b-41f2-4735-98e0-3396339c614c</webElementGuid>
+      <value>mantine-r5</value>
+      <webElementGuid>0955f83f-6e24-4e10-acbb-9f63e2f266e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>inputmode</name>
       <type>Main</type>
       <value>numeric</value>
-      <webElementGuid>4e8db0f2-782b-46d5-8a1c-7ea837255bda</webElementGuid>
+      <webElementGuid>6baa5540-424d-4166-8af7-94766e3cfde0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>18</value>
-      <webElementGuid>2fb2615a-77ad-493c-b79f-9871cebe1cf8</webElementGuid>
+      <webElementGuid>70b23dcc-44f0-4702-8bfa-dded84cde25e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,15 +78,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan 16 digit NIK KTP Pelanggan</value>
-      <webElementGuid>eda072e9-0a25-4900-8066-fd87accbebb0</webElementGuid>
+      <webElementGuid>ac00f38f-358e-4e2b-b766-d2ef4ccf6957</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-mantine-stop-propagation</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>12baa87e-c36b-4d63-adbd-57ebaf2e8a45</webElementGuid>
+      <value>false</value>
+      <webElementGuid>9c46f032-86ce-41f5-8891-970c002737d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>88fddbad-3d66-4d3f-b245-71f8f740d37c</webElementGuid>
+      <webElementGuid>ed821707-4ef6-4b45-afb5-c6de82ac4967</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>listbox</value>
-      <webElementGuid>465403eb-d782-4af6-a0a3-683b05173a70</webElementGuid>
+      <webElementGuid>ccf64932-e3c9-4a86-8835-da3cd1e07b6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2b544d06-bfa5-4891-ba4c-bbb6c97a8e7f</webElementGuid>
+      <webElementGuid>49ee8f84-e65b-48ab-893a-1ad4e849cc02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>0d7b71c4-65d3-4012-ad9c-38ae859103c4</webElementGuid>
+      <webElementGuid>11b97c73-7d58-42e0-8ee9-826ab95bb8fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,31 +126,23 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>49887c4e-018a-4233-a6fb-20a67fa8b792</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>3</value>
-      <webElementGuid>7df59b18-00c4-45b0-a310-ba563ffaa851</webElementGuid>
+      <webElementGuid>5fe70bfc-27c8-43d5-a611-604cdce9f786</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mantine-rd&quot;)</value>
-      <webElementGuid>96148bee-04fc-40a8-a754-8e73b25dc661</webElementGuid>
+      <value>id(&quot;mantine-r5&quot;)</value>
+      <webElementGuid>61e331e2-29ff-4e08-9da3-799468f38556</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='mantine-rd']</value>
-      <webElementGuid>2d59abc5-f379-4afd-bb35-7a40ba256656</webElementGuid>
+      <value>//input[@id='mantine-r5']</value>
+      <webElementGuid>ce91e169-e8ef-475f-8467-0526796273a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +150,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/div/div/div/div/div[2]/div/div/form/div/div/div/input</value>
-      <webElementGuid>770944f4-2cb4-41d1-a650-7ae064dc1b12</webElementGuid>
+      <webElementGuid>6f4e7f82-ade3-4129-9469-84b8b6b69afa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,14 +158,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>537bd3af-2e41-4cc4-a33a-c9fb7e1945e4</webElementGuid>
+      <webElementGuid>c04c5899-e514-48cf-a68c-d79af4ca20cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'search' and @id = 'mantine-rd' and @placeholder = 'Masukkan 16 digit NIK KTP Pelanggan']</value>
-      <webElementGuid>a74cc7c7-4409-4d36-83dd-8a2477bf7564</webElementGuid>
+      <value>//input[@type = 'search' and @id = 'mantine-r5' and @placeholder = 'Masukkan 16 digit NIK KTP Pelanggan']</value>
+      <webElementGuid>d124ce72-556d-4326-a9df-a3495e46820e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

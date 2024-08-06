@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Kirim Bukti ke Pelanggan</name>
+   <tag></tag>
+   <elementGuidId>ba15e24d-7957-4d81-88cc-c0d840ac2b7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.styles_root__6_rRr.styles_medium__7QTIz.styles_outlined__khSXF.styles_primary__pVpF_.styles_btnCek__5yymZ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a79bb98a-832f-401b-90d9-970d16643dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_root__6_rRr styles_medium__7QTIz styles_outlined__khSXF styles_primary__pVpF_ styles_btnCek__5yymZ</value>
+      <webElementGuid>966b47a4-76e7-416d-b149-dae8f4ce5527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>129aec56-09c5-44e0-b7bb-612e04b2a3b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kirim Bukti ke Pelanggan</value>
+      <webElementGuid>24465d66-d23e-471f-bc9d-d4346771577b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;capture&quot;)/div[@class=&quot;styles_btnCek__5yymZ&quot;]/button[@class=&quot;styles_root__6_rRr styles_medium__7QTIz styles_outlined__khSXF styles_primary__pVpF_ styles_btnCek__5yymZ&quot;]</value>
+      <webElementGuid>faed66d9-ff99-4064-aec2-d7fc1f18a93b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>8fcf9e64-65fc-4556-8a35-0a88934f15c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='capture']/div[3]/button</value>
+      <webElementGuid>91f0aa67-03f9-4a25-a81c-5a4ac68f1565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Pengguna'])[1]/following::button[1]</value>
+      <webElementGuid>43e4c94a-78a4-4b44-ae57-bbbf6b3fd841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::button[1]</value>
+      <webElementGuid>6fcc8207-d66f-435c-a2da-c599d07b66c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesai'])[1]/preceding::button[1]</value>
+      <webElementGuid>aad49088-eacf-46f1-8770-cb068c3d1f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[2]</value>
+      <webElementGuid>4a25250d-4f75-4cc8-a4df-9eca6620a287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kirim Bukti ke Pelanggan']/parent::*</value>
+      <webElementGuid>2396a711-a76a-4e3e-9e25-bc5a8350121c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>c6d62b5f-76da-43a9-9515-d2ece08e1518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Kirim Bukti ke Pelanggan' or . = 'Kirim Bukti ke Pelanggan')]</value>
+      <webElementGuid>ee94beb6-171e-46d8-b2ea-67ee715ec1b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

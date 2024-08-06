@@ -3,15 +3,15 @@
    <description></description>
    <name>h3_Pelanggan memiliki 2 jenis pengguna</name>
    <tag></tag>
-   <elementGuidId>524e2808-99a4-48b5-b961-5b53ba88fbb2</elementGuidId>
+   <elementGuidId>ecae4c4c-dfd0-4f91-bd20-0591d91fc9ea</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#mantine-r8-body > h3</value>
+         <value>#mantine-ra-body > h3</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mantine-r8-body']/h3</value>
+         <value>//div[@id='mantine-ra-body']/h3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h3</value>
-      <webElementGuid>2d7c940a-ff04-4b35-a4be-4187028b7682</webElementGuid>
+      <webElementGuid>96f9fc29-5985-4dbd-a7df-80e42b3d4bf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,39 +30,39 @@
       <name>text</name>
       <type>Main</type>
       <value>Pelanggan memiliki 2 jenis pengguna</value>
-      <webElementGuid>8240eea0-3609-46cd-9e30-1722a6e8b0cc</webElementGuid>
+      <webElementGuid>21a47f00-3e0b-4061-8fbd-9b71e331334a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mantine-r8-body&quot;)/h3[1]</value>
-      <webElementGuid>67a77638-c5e4-4e75-a30c-2475f57e1c8f</webElementGuid>
+      <value>id(&quot;mantine-ra-body&quot;)/h3[1]</value>
+      <webElementGuid>8cf0c946-04c8-466b-a744-595bdce2278b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mantine-r8-body']/h3</value>
-      <webElementGuid>0d9b1b19-bef3-47d1-bb5c-53f07f4eaa92</webElementGuid>
+      <value>//div[@id='mantine-ra-body']/h3</value>
+      <webElementGuid>543fd4cd-753d-4de5-9f37-703cdf2f8398</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil Saya'])[1]/following::h3[1]</value>
-      <webElementGuid>445f13a2-f2ca-482d-b87d-0d48e53f647f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mantine-ra-body', '&quot;', ')/h3[1]')])[1]/following::h3[1]</value>
+      <webElementGuid>855457d1-3635-4464-a392-8a06a55f002f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atur Produk'])[1]/following::h3[1]</value>
-      <webElementGuid>46855f89-c6ef-44b4-819f-6a2df9e26f06</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::h3[1]</value>
+      <webElementGuid>59079226-fd01-4bc4-a743-9ec821285e9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,15 +70,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/preceding::h3[1]</value>
-      <webElementGuid>16036d61-310f-4fbd-8009-f72ff39186b1</webElementGuid>
+      <webElementGuid>bc34ee72-0c96-4390-82e1-94d80869cb18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOMxx'])[1]/preceding::h3[1]</value>
-      <webElementGuid>6463dc8a-8a45-4543-8074-e1de1b5087ab</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMx xxxxxxxNTI'])[1]/preceding::h3[1]</value>
+      <webElementGuid>99ca12d8-01d5-4194-b70d-944be4991935</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Pelanggan memiliki']/parent::*</value>
-      <webElementGuid>47db5b63-4a7f-49e6-8447-19e14402bb57</webElementGuid>
+      <webElementGuid>adc1927d-6357-4988-88e8-adb7666e16b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div/h3</value>
-      <webElementGuid>7aff1e46-240a-4210-b06c-e577f33463b1</webElementGuid>
+      <webElementGuid>22edda49-40c5-405f-9628-a2668a40468e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h3[(text() = 'Pelanggan memiliki 2 jenis pengguna' or . = 'Pelanggan memiliki 2 jenis pengguna')]</value>
-      <webElementGuid>bbbd2a7e-6006-4d03-a107-b1b3db7c0071</webElementGuid>
+      <webElementGuid>65ae15c4-6a46-43a1-a9e2-65623c1615d0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

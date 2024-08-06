@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Keluar</name>
    <tag></tag>
-   <elementGuidId>803905d6-c344-41b0-8b8f-91d56978bb85</elementGuidId>
+   <elementGuidId>d8c9ca8a-af1a-442d-abb6-d149e50791c8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cf44cab9-b838-4d51-9692-1d6c8ff17e2c</webElementGuid>
+      <webElementGuid>5e9fe432-ea41-48bb-958e-71061fa0a6b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styles_root__6_rRr styles_medium__7QTIz styles_contained__1kIDF styles_primary__pVpF_ styles_btnLogoutModal__fCj0l</value>
-      <webElementGuid>04e511a4-4756-461f-8e05-37934e359785</webElementGuid>
+      <webElementGuid>c8f8f428-1a18-4e17-8071-f6f60fce503e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>btnLogout</value>
-      <webElementGuid>cf547328-f2bd-4cd1-8b2b-35a1197b47fc</webElementGuid>
+      <webElementGuid>574fb8f4-0935-4b18-a624-f8be4d84ed7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1b2165c2-c379-443e-8287-1ad3caa7a168</webElementGuid>
+      <webElementGuid>5ced0cb2-3e28-4742-843f-f229e76bac6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,15 +54,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Keluar</value>
-      <webElementGuid>d91308a3-d156-468f-9a4f-5fcff4de141d</webElementGuid>
+      <webElementGuid>a7e11661-4fb9-439a-af4e-ff3a3af83992</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mantine-r6-body&quot;)/div[@class=&quot;styles_btnActionLogoutContainer___Vurd&quot;]/div[@class=&quot;styles_btnLogoutModal__fCj0l&quot;]/button[@class=&quot;styles_root__6_rRr styles_medium__7QTIz styles_contained__1kIDF styles_primary__pVpF_ styles_btnLogoutModal__fCj0l&quot;]</value>
-      <webElementGuid>9539e894-9d42-4498-bab9-bd85cf9718f6</webElementGuid>
+      <value>id(&quot;mantine-r8-body&quot;)/div[@class=&quot;styles_btnActionLogoutContainer___Vurd&quot;]/div[@class=&quot;styles_btnLogoutModal__fCj0l&quot;]/button[@class=&quot;styles_root__6_rRr styles_medium__7QTIz styles_contained__1kIDF styles_primary__pVpF_ styles_btnLogoutModal__fCj0l&quot;]</value>
+      <webElementGuid>9501d12b-0a4a-410f-acec-e55941a6315d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,23 +70,23 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>ed0056f9-e348-4f7b-a724-0494be26a946</webElementGuid>
+      <webElementGuid>2f95cacc-4e5e-4559-9b55-77b83c5e5cc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mantine-r6-body']/div/div/button</value>
-      <webElementGuid>4f4ee9e9-b7b8-4b91-9b51-0a7456d7bc91</webElementGuid>
+      <value>//div[@id='mantine-r8-body']/div/div/button</value>
+      <webElementGuid>c5ac9a11-6419-4dd2-a4f6-5f710960fdb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda yakin ingin keluar dari MerchantApps MyPertamina?'])[1]/following::button[1]</value>
-      <webElementGuid>25fc62f6-7e45-4227-9aa1-8ac0e129affb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda yakin ingin keluar dari MerchantApps Pangkalan Pertamina?'])[1]/following::button[1]</value>
+      <webElementGuid>d58ac50f-b94f-451d-8c04-dac203a27822</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::button[1]</value>
-      <webElementGuid>d0dfab8b-907e-4c89-9895-92e214e12c77</webElementGuid>
+      <webElementGuid>cb1eca57-82b8-4dce-855e-2e0e23c642ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::button[1]</value>
-      <webElementGuid>2d7af986-a870-4e8c-b808-f7e7f9d18d8d</webElementGuid>
+      <webElementGuid>816b542d-676f-44df-937e-44fbc33b4037</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Keluar']/parent::*</value>
-      <webElementGuid>fbd0e3e0-eaf2-4fc4-aea6-e5a4dfc9d39d</webElementGuid>
+      <webElementGuid>f1e09853-5eb1-47a8-8a23-8e7d402588f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div[2]/div/div/button</value>
-      <webElementGuid>9f2dfb97-acb2-42f7-9763-d110b2d2f8cc</webElementGuid>
+      <webElementGuid>0fcbaef4-7cc5-460c-a7a8-c59e66caa8a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Keluar' or . = 'Keluar')]</value>
-      <webElementGuid>7071dc1a-7994-4005-87f0-00f9b971ba43</webElementGuid>
+      <webElementGuid>7cd1b9c7-bda9-4a41-b41d-fbae8da2d5b0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Keluar Akun</name>
    <tag></tag>
-   <elementGuidId>7847f802-3600-417f-a1b1-201a777870f5</elementGuidId>
+   <elementGuidId>788e70c2-4f61-4d4e-be25-fed4c48ce6e8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/main/div/div/div/div/div[2]/div/div[3]/span</value>
+         <key>CSS</key>
+         <value>span.styles_iconClose__ZjGFM</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.styles_containerLogout__djB6S > span</value>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/div/div/div/div/div[3]/div[2]/div/div/div/div/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,70 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4335795c-8a66-4308-9483-b593318ba602</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Keluar Akun</value>
-      <webElementGuid>d3ce6a09-de07-4eb3-95f8-4edefd791991</webElementGuid>
+      <webElementGuid>99ea35f3-9bca-4682-8e1c-470008fa14de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_iconClose__ZjGFM</value>
+      <webElementGuid>106b25f9-3243-4fd7-b8d2-72b11c848ba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>btnClosee48092d8-ed1a-4a76-aed2-ee8dddea3015</value>
+      <webElementGuid>4927f269-8adf-4e3d-b01d-44de398b970c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/div[@class=&quot;mantine-AppShell-root mantine-1udmbix&quot;]/div[@class=&quot;mantine-hr6aor mantine-AppShell-body&quot;]/main[@class=&quot;mantine-18646eo mantine-AppShell-main&quot;]/div[@class=&quot;effect-1&quot;]/div[1]/div[@class=&quot;styles_innerContent__b1j3r styles_activeNavbar__pjnS8&quot;]/div[@class=&quot;mantine-Container-root styles_cardTop__99fsT mantine-d64fcd&quot;]/div[@class=&quot;mantine-Container-root styles_verifContainer__GY6kB mantine-d9zk78&quot;]/div[@class=&quot;styles_verifContainerDiv__bXQ4_&quot;]/div[@class=&quot;styles_containerLogout__djB6S&quot;]/span[1]</value>
-      <webElementGuid>fd34b327-cd2d-46ce-9a12-a5dad9c32970</webElementGuid>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;mantine-AppShell-root mantine-1udmbix&quot;]/div[@class=&quot;mantine-hr6aor mantine-AppShell-body&quot;]/main[@class=&quot;mantine-18646eo mantine-AppShell-main&quot;]/div[@class=&quot;effect-1&quot;]/div[1]/div[@class=&quot;styles_innerContent__b1j3r styles_activeNavbar__pjnS8&quot;]/div[@class=&quot;mantine-Container-root styles_cardTop__99fsT mantine-d64fcd&quot;]/div[@class=&quot;styles_notif__2XsNl&quot;]/div[@class=&quot;styles_carouselWrapper__dnIVw&quot;]/div[@class=&quot;mantine-Carousel-root styles_carousel___eH7U mantine-7c7vou&quot;]/div[@class=&quot;mantine-1my8u2w mantine-Carousel-viewport&quot;]/div[@class=&quot;mantine-fuwuth mantine-Carousel-container&quot;]/div[@class=&quot;mantine-Carousel-slide mantine-l7w0zm&quot;]/span[@class=&quot;styles_iconClose__ZjGFM&quot;]</value>
+      <webElementGuid>2307de9d-1ac8-4e38-8e04-41052a3eff01</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__next']/div/div/main/div/div/div/div/div[2]/div/div[3]/span</value>
-      <webElementGuid>8e5dc633-3aa3-4942-b992-b386acad18ea</webElementGuid>
+      <value>//div[@id='__next']/div/div/main/div/div/div/div/div[3]/div[2]/div/div/div/div/span</value>
+      <webElementGuid>f26691cc-eccc-49a2-a434-61c6418cf920</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftarkan Pelanggan Baru'])[1]/following::span[1]</value>
-      <webElementGuid>53e5abe5-c12c-40f4-bbc3-9b611f9f18c6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar Akun'])[1]/following::span[2]</value>
+      <webElementGuid>65433e52-7fa5-43c0-8597-f93a9f9883bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelanggan Belum Terdaftar?'])[1]/following::span[1]</value>
-      <webElementGuid>84518df4-4269-4182-a845-cf5c16e7277d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftarkan Pelanggan Baru'])[1]/following::span[3]</value>
+      <webElementGuid>cd073481-e08d-4349-ad1f-de502471eb7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek NIK'])[1]/preceding::span[1]</value>
-      <webElementGuid>8af33aad-7550-4ece-a664-e5e3e1a8fd8c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Rincian'])[1]/preceding::span[3]</value>
+      <webElementGuid>0ee91504-e71a-4a56-990a-404f0723d020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek NIK'])[1]/preceding::span[3]</value>
+      <webElementGuid>3dca29b7-57e7-4232-b128-62711a4bc90b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/span</value>
-      <webElementGuid>aca953a2-bf37-4022-8f9d-9c1eba734fa4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'Keluar Akun' or . = 'Keluar Akun')]</value>
-      <webElementGuid>b0decc23-bb20-4f3b-b185-4cd82747e585</webElementGuid>
+      <value>//div[2]/div/div/div/div/span</value>
+      <webElementGuid>daf45622-dfe1-421b-9c78-e5ce581e7e33</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
