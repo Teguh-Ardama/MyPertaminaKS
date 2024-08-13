@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Usaha MikroOn Demand</name>
+   <tag></tag>
+   <elementGuidId>f82a3211-3a77-405a-a935-e1a66799391c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/div/div/div/div/div/div/div[2]/div/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f4a2e94d-63f5-41d8-a8ee-7b0fcc2c0a69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Usaha MikroOn Demand</value>
+      <webElementGuid>02568a75-1efc-495a-98b0-295219303fd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;mantine-AppShell-root mantine-1udmbix&quot;]/div[@class=&quot;mantine-hr6aor mantine-AppShell-body&quot;]/main[@class=&quot;mantine-18646eo mantine-AppShell-main&quot;]/div[@class=&quot;effect-1&quot;]/div[1]/div[@class=&quot;styles_innerContent__b1j3r false&quot;]/div[@class=&quot;mantine-Container-root mantine-d64fcd&quot;]/div[@class=&quot;styles_pageContainer__XbfWc&quot;]/div[1]/div[@class=&quot;styles_container__o2Pb0&quot;]/div[@class=&quot;styles_infoPelangganSubsidi__83lX9&quot;]/div[@class=&quot;styles_containerCustomerInfo__N3jX5&quot;]/span[1]</value>
+      <webElementGuid>b7be6c22-b691-45de-8f7a-65c92ee7363f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/div/div/div/div/div/div/div[2]/div/div[3]/span</value>
+      <webElementGuid>2c81ab3e-c208-4461-b57b-ea85c01487fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Pengguna'])[1]/following::span[1]</value>
+      <webElementGuid>f545d7e7-4b0b-419c-a5c7-cf2becd9121e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor NIK'])[1]/following::span[2]</value>
+      <webElementGuid>ef67dfc1-24ac-4c5f-8df4-b5efe5fea7b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak dapat transaksi, stok tabung yang dapat dijual kosong. Silakan lakukan penebusan.'])[1]/preceding::span[3]</value>
+      <webElementGuid>030401f5-5bab-4f2b-9318-6cd6cf57daa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Usaha Mikro']/parent::*</value>
+      <webElementGuid>a9005551-85ca-4f94-b4f1-e5f9da3c4f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/span</value>
+      <webElementGuid>daaa6e24-13f3-4b5b-a4ff-f180804fc49b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Usaha MikroOn Demand' or . = 'Usaha MikroOn Demand')]</value>
+      <webElementGuid>eaa5a5a3-3d95-47cb-9dd1-1d7f5b6612ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rumah TanggaP3KE</name>
+   <tag></tag>
+   <elementGuidId>0162c02e-dc8b-4e8e-966a-93bdf1af1415</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/div/div/div/div/div/div/div[2]/div/div[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b7967c2e-577f-4a21-99c2-91f706ba16cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rumah TanggaP3KE</value>
+      <webElementGuid>7e8032e7-26fd-4c67-9ed3-1b058f213f3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;mantine-AppShell-root mantine-1udmbix&quot;]/div[@class=&quot;mantine-hr6aor mantine-AppShell-body&quot;]/main[@class=&quot;mantine-18646eo mantine-AppShell-main&quot;]/div[@class=&quot;effect-1&quot;]/div[1]/div[@class=&quot;styles_innerContent__b1j3r false&quot;]/div[@class=&quot;mantine-Container-root mantine-d64fcd&quot;]/div[@class=&quot;styles_pageContainer__XbfWc&quot;]/div[1]/div[@class=&quot;styles_container__o2Pb0&quot;]/div[@class=&quot;styles_infoPelangganSubsidi__83lX9&quot;]/div[@class=&quot;styles_containerCustomerInfo__N3jX5&quot;]/span[1]</value>
+      <webElementGuid>6921a1ac-f6f3-4ac6-bf95-f4e2b17cd8ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/div/div/div/div/div/div/div[2]/div/div[4]/span</value>
+      <webElementGuid>f172d9c3-31b1-40d7-a554-8ffac29b7cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Pengguna'])[1]/following::span[1]</value>
+      <webElementGuid>847d77cd-8272-47ae-8872-7f6ec819cd20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor NIK'])[1]/following::span[2]</value>
+      <webElementGuid>994d4a4c-8100-42d4-9b14-26523b02f27b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak dapat transaksi, stok tabung yang dapat dijual kosong. Silakan lakukan penebusan.'])[1]/preceding::span[3]</value>
+      <webElementGuid>68a22f0e-757f-4dea-8f14-41df51eb0b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rumah Tangga']/parent::*</value>
+      <webElementGuid>3baf120c-5e7f-4e2e-af1c-60ea3130596d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/span</value>
+      <webElementGuid>f2c72143-072b-4c14-afbc-3a9c19397416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rumah TanggaP3KE' or . = 'Rumah TanggaP3KE')]</value>
+      <webElementGuid>c9cf68e0-d71f-4508-97f7-74b3d1ab5d28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

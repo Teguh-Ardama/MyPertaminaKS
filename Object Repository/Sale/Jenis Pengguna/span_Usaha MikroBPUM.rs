@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Usaha MikroBPUM</name>
+   <tag></tag>
+   <elementGuidId>475f199e-6520-4d2e-a7d7-5d55d673b15f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/div/div/div/div/div/div/div[2]/div/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>68653d3e-ebf4-47da-95d6-e97f693a8a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Usaha MikroBPUM</value>
+      <webElementGuid>2ffe7112-db34-49ef-a6b3-e5695e31c868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;mantine-AppShell-root mantine-1udmbix&quot;]/div[@class=&quot;mantine-hr6aor mantine-AppShell-body&quot;]/main[@class=&quot;mantine-18646eo mantine-AppShell-main&quot;]/div[@class=&quot;effect-1&quot;]/div[1]/div[@class=&quot;styles_innerContent__b1j3r false&quot;]/div[@class=&quot;mantine-Container-root mantine-d64fcd&quot;]/div[@class=&quot;styles_pageContainer__XbfWc&quot;]/div[1]/div[@class=&quot;styles_container__o2Pb0&quot;]/div[@class=&quot;styles_infoPelangganSubsidi__83lX9&quot;]/div[@class=&quot;styles_containerCustomerInfo__N3jX5&quot;]/span[1]</value>
+      <webElementGuid>8f1ec7ce-1777-4c1e-96c5-ac073fa4bd82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/div/div/div/div/div/div/div[2]/div/div[3]/span</value>
+      <webElementGuid>19d0eafc-53bb-4e46-9521-2f245895fb1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Pengguna'])[1]/following::span[1]</value>
+      <webElementGuid>de57f045-d3ce-4697-9ded-c1eaf945bb00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor NIK'])[1]/following::span[2]</value>
+      <webElementGuid>43848235-b5f5-48a9-86c0-bb4c840a8df2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak dapat transaksi, stok tabung yang dapat dijual kosong. Silakan lakukan penebusan.'])[1]/preceding::span[3]</value>
+      <webElementGuid>0d7a2ca0-a762-4f2e-b68e-90b7549bd958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Usaha Mikro']/parent::*</value>
+      <webElementGuid>6704c55c-bbb6-469b-b938-0f9493ae474c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/span</value>
+      <webElementGuid>d3a5055b-9ab0-48da-8b15-ae175f899c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Usaha MikroBPUM' or . = 'Usaha MikroBPUM')]</value>
+      <webElementGuid>1de0b987-2d1d-45c4-8d1a-18dd41460ba4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

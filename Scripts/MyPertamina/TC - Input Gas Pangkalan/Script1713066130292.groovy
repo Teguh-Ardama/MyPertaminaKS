@@ -26,6 +26,18 @@ WebUI.setText(findTestObject('Object Repository/Login Page/input_Email'), Email)
 WebUI.setText(findTestObject('Object Repository/Login Page/input_PIN'), Pin)
 WebUI.submit(findTestObject('Object Repository/Login Page/button_Masuk'))
 
+// Cek apakah login gagal
+if (WebUI.verifyElementPresent(findTestObject('Object Repository/Login Page/Gagal Login/h3_Gagal masuk Akun'), 2, FailureHandling.OPTIONAL)) {
+    // Tunggu selama 2 menit (120 detik)
+    WebUI.delay(120)
+    
+    // Klik tombol "Mengerti" untuk menutup pesan gagal login
+    WebUI.click(findTestObject('Object Repository/Login Page/Gagal Login/button mengerti'))
+    
+    // Coba login lagi
+    WebUI.submit(findTestObject('Object Repository/Login Page/button_Masuk'))
+}
+
 // NIK Check
 WebUI.setText(findTestObject('Object Repository/Main Page/NIK Pelanggan'), NIK)
 WebUI.submit(findTestObject('Object Repository/Main Page/button_Cek'))
@@ -47,9 +59,20 @@ if (WebUI.verifyElementPresent(findTestObject('Object Repository/Main Page/NIK B
         WebUI.click(findTestObject('Object Repository/Sale/Icon Back'))
         WebUI.callTestCase(findTestCase('MyPertamina/TC - Keluar'), [:], FailureHandling.STOP_ON_FAILURE)
     } else {
-        // Add products
-        for (int r = 1; r <= 4; r++) {
-            WebUI.click(findTestObject('Object Repository/Sale/Icon Plus'))
+        // Verifikasi apakah salah satu dari kedua elemen hadir
+        boolean isUserTypePresent = WebUI.verifyElementPresent(findTestObject('Object Repository/Sale/Jenis Pengguna/span_Rumah TanggaOn Demand'), 2, FailureHandling.OPTIONAL) ||
+                                    WebUI.verifyElementPresent(findTestObject('Object Repository/Sale/Jenis Pengguna/span_Rumah TanggaP3KE'), 2, FailureHandling.OPTIONAL)
+        
+        if (isUserTypePresent) {
+            // Add products jika salah satu elemen ditemukan
+            for (int r = 1; r <= 1; r++) {
+                WebUI.click(findTestObject('Object Repository/Sale/Icon Plus'))
+            }
+        } else {
+            // Jika tidak ada elemen yang ditemukan, tetap melakukan aksi klik 2 kali
+            for (int r = 1; r <= 4; r++) {
+                WebUI.click(findTestObject('Object Repository/Sale/Icon Plus'))
+            }
         }
 
         WebUI.click(findTestObject('Object Repository/Sale/button_Cek Pesanan'))
@@ -70,5 +93,3 @@ if (WebUI.verifyElementPresent(findTestObject('Object Repository/Main Page/NIK B
 
 // Close Browser
 WebUI.closeBrowser()
-
-
